@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm a software engineer working for Microsoft as a software engineering manager for Visual Studio IntelliCode. Additionally, I get to invest my time in several technology interests such as iOS/macOS programming, open source development, child-friendly software and hardware, and artificial intelligence.
+I'm a software engineer working for Microsoft as a software engineering manager for Visual Studio IntelliCode. Additionally, I get to invest my time in several technology interests such as iOS/macOS programming, open source development, child-friendly software and hardware, and artificial intelligence. You can also find me in <a rel="me" href="https://hachyderm.io/@DavidObando">Mastodon</a>.
 
 <!--
 **DavidObando/DavidObando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
